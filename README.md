@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BA Essentials - Business Analyst Superpower Handbook</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #f9f9f9;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        h1 {
-            color: #2c3e50;
-        }
-        h2 {
-            color: #34495e;
-        }
-        p {
-            font-size: 1.1rem;
-            color: #34495e;
-        }
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            margin-top: 30px;
-            font-size: 0.9rem;
-            color: #7f8c8d;
-        }
-    </style>
-</head>
-<body>
+
 
     <div class="container">
         <h1>🛠️ BA Essentials – Your Business Analyst Superpower Handbook</h1>
@@ -61,5 +18,3 @@
         </div>
     </div>
 
-</body>
-</html>
