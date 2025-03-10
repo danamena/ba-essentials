@@ -1,5 +1,5 @@
-<h1> 📌 Templates & Documentation - Work in Action! </h1>
-<h2> Structure & Adaptability</h2>
+<h1>🗒️Templates & Documentation - Work in Action! </h1>
+<h2>Structure & Adaptability</h2>
 
 <h3>Different Formats for Different Organizations</h3>
 <p>Project documentation formats can vary significantly depending on the organization. Larger companies often have established templates and documentation standards that you’ll need to follow, while in smaller organizations or new projects, you may have to create your own templates from scratch.</p>
