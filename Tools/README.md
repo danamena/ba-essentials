@@ -15,7 +15,7 @@
 <p>I believe in leveraging familiarity with certain tools, as it helps accelerate your learning curve. For example:</p>
 
 <ul>
-    <li><strong>Example Microsoft Suite:</strong> Once you're comfortable with tools like Visio, Excel, or Word, switching to other software like Lucidchart or Google Sheets feels natural and intuitive.</li>
+    <li><strong>Microsoft Suite:</strong> Once you're comfortable with tools like Visio, Excel, or Word, switching to other software like Lucidchart or Google Sheets feels natural and intuitive.</li>
 
 </ul>
 
