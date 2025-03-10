@@ -1,5 +1,5 @@
-<h1> BA Toolkit</h1>
-<h2>📌 Important note - Adaptability & Transferability</h2>
+<h1>🛠️ Tools - How do we do what we do?</h1>
+<h2>Adaptability & Transferability</h2>
 
 <h3>Different Tools for the Same Objective</h3>
 <p>Tools may vary depending on the organization and its licenses, but the objectives are often the same. Whether it's project management, data analysis, or prototyping, the core functionality of these tools is usually quite similar, making it easier to adapt and switch between them.</p>
