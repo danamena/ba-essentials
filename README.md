@@ -5,8 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
-  <h1>🛠️ BA Essentials – Your Business Analyst Superpower Handbook</h1>
-  <p>Welcome to <strong>BA Essentials!</strong> 🎯 This is your go-to resource for templates, tools, and tips to navigate the world of Business Analysis and solve BA puzzles every day.</p>
+  <h1>🛠️ Welcome to Your BA Essentials! 🚀</h1>
+  <p>This isn’t your BA Guru Guide—this is a real, hands-on handbook. Think of it as your starter kit for Business Analysis. Here, you’ll find templates, tools, and tips that will hopefully help you navigate the BA world based on my experience.</p>
+  <h2>What to Expect</h2>
+<p>📌 Practical resources, not theory overload.</p>
+<p>📌 Actionable templates to save you time.</p>
+<p>📌 Tools and tips to make your BA life easier.</p>
   <h2>📂 What's Inside?</h2>
   <p>Each folder contains structured resources, along with an <strong>instruction file</strong> to guide you on how to use them effectively.</p>
   <h2>🚀 Get Involved!</h2>
