@@ -22,6 +22,6 @@
   <h2>🚀 Get Involved!</h2>
   <p>Have questions, suggestions, or feedback? Drop a comment or reach out—I'm always happy to connect!</p>
   <p>📬 <strong>Contact me here:</strong> <a href="https://www.linkedin.com/in/danamena/" target="_blank">Let's Connect!</a></p>
-  <p>Last but not least… thank you for being here! Let’s learn, grow, and streamline processes together! 🌱</p>
+  <p>Last but not least… Thank you for being here! Let’s learn, grow, and streamline processes together! 🌱</p>
 </body>
 </html>
