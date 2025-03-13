@@ -1,0 +1,4 @@
+📌 Business Requirements Document Template:
+Business Analysis is all about collaboration, and I couldn't find a better explanation of what a BRD is and when to use it than from one of my favorite BA experts, Angelo. 
+Enjoy his tutorial and walkthrough template here: 
+https://metabusinessanalyst.com/business-requirements-document-brd-tutorial-template-walkthrough/
