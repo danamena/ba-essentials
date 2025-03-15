@@ -13,8 +13,8 @@
 <p>• Tools and tips to support you in your day-to-day BA work.</p>
   <h2>📂 What's Inside?</h2>
   <p>Each folder contains structured resources, along with a <strong>Readme file</strong> to guide you on how to use them effectively.</p>
-  <h2>🚧 A Work in Progress</h2>
-<p>This project is constantly growing, adapting, and changing—just like real-life projects!</p>
+  <h2>🚧 This is a Work in Progress Project</h2>
+<p>This project is constantly growing, adapting, and changing—just like real-life projects! Stay tuned!</p>
 <h2>✅ You’re in the Right Place If…</h2>
 <p>• You choose progress over perfection.</p>
 <p>• You have a learning attitude.</p>
