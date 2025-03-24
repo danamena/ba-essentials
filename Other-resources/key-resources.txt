@@ -1,2 +1,9 @@
-Explore fresh content in IIBA’s KnowledgeHub! 🚀
-🙌 https://www.iiba.org/knowledgehub/
+Explore fresh content in IIBA’s KnowledgeHub! 🚀 (IIBA: International Institute of Business Analyst)
+https://www.iiba.org/knowledgehub/
+
+The Home of Scrum
+https://www.scrum.org/
+
+Scrum Guide - What it is, how it works, and how to start - Jira Example
+https://www.atlassian.com/agile/scrum
+
